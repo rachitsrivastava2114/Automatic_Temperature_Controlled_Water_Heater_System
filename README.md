@@ -8,7 +8,7 @@
   <p align="center"> Smart Water Heating & Proximity-Based Tap Automation <br /> 
     <br /> 
     · 
-    <a href="https://github.com/rachitsrivastava2114/Up_and_Down_Counter_using_FPGA/issues">Report Bug</a> 
+    <a href="https://github.com/rachitsrivastava2114/Automatic_Temperature_Controlled_Water_Heater_System/issues">Report Bug</a> 
     · 
   </p> 
 </p>
@@ -33,8 +33,8 @@ This project implements an automatic temperature-controlled water heater system 
 
 An ultrasonic sensor is used to detect hand or object presence, enabling smart tap activation. System parameters such as distance, temperature, setpoint, and estimated time to reach the desired temperature (ETA) are displayed on an OLED display, providing real-time feedback to the user.
 
-The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications.
-<img src="images/Temperature_Control_Water_Tap_Poster.png">
+The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications. </br>
+<img src="images/Temperature_Control_Water_Tap_Poster.png" style="width: 50%; height: auto;">
 
 ### Objectives
 
