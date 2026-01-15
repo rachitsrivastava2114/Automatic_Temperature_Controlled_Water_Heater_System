@@ -35,7 +35,9 @@ An ultrasonic sensor is used to detect hand or object presence, enabling smart t
 
 The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications. <br /> 
     <br /> 
+<p align = "center">
 <img src="images/Temperature_Control_Water_Tap_Poster.png" style="width: 50%; height: 50%;">
+</p>
 
 ### Objectives
 
